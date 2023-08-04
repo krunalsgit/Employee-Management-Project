@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "AwvW1qGU2U7h6tspuQUwzfQhoG1/TzJW95ZJ7lmbNMdiTgUpTkMJf3sqBxPHRCNw1ixakHQWzVT3O651FjSr7Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sit351\\Desktop\\DotNetCore\\Employee351\\Employee351.Models\\Employee351.Models.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sit351\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.17\\microsoft.aspnetcore.http.features.5.0.17.nupkg.sha512",
+    "C:\\Users\\sit351\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.1\\microsoft.extensions.primitives.5.0.1.nupkg.sha512",
+    "C:\\Users\\sit351\\.nuget\\packages\\system.io.pipelines\\5.0.2\\system.io.pipelines.5.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

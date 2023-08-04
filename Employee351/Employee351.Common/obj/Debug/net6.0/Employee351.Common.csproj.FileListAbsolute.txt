@@ -1,0 +1,12 @@
+C:\Users\sit351\Desktop\DotNetCore\Employee351\Employee351.Common\bin\Debug\net6.0\Employee351.Common.deps.json
+C:\Users\sit351\Desktop\DotNetCore\Employee351\Employee351.Common\bin\Debug\net6.0\Employee351.Common.dll
+C:\Users\sit351\Desktop\DotNetCore\Employee351\Employee351.Common\bin\Debug\net6.0\Employee351.Common.pdb
+C:\Users\sit351\Desktop\DotNetCore\Employee351\Employee351.Common\obj\Debug\net6.0\Employee351.Common.csproj.AssemblyReference.cache
+C:\Users\sit351\Desktop\DotNetCore\Employee351\Employee351.Common\obj\Debug\net6.0\Employee351.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sit351\Desktop\DotNetCore\Employee351\Employee351.Common\obj\Debug\net6.0\Employee351.Common.AssemblyInfoInputs.cache
+C:\Users\sit351\Desktop\DotNetCore\Employee351\Employee351.Common\obj\Debug\net6.0\Employee351.Common.AssemblyInfo.cs
+C:\Users\sit351\Desktop\DotNetCore\Employee351\Employee351.Common\obj\Debug\net6.0\Employee351.Common.csproj.CoreCompileInputs.cache
+C:\Users\sit351\Desktop\DotNetCore\Employee351\Employee351.Common\obj\Debug\net6.0\Employee351.Common.dll
+C:\Users\sit351\Desktop\DotNetCore\Employee351\Employee351.Common\obj\Debug\net6.0\refint\Employee351.Common.dll
+C:\Users\sit351\Desktop\DotNetCore\Employee351\Employee351.Common\obj\Debug\net6.0\Employee351.Common.pdb
+C:\Users\sit351\Desktop\DotNetCore\Employee351\Employee351.Common\obj\Debug\net6.0\ref\Employee351.Common.dll

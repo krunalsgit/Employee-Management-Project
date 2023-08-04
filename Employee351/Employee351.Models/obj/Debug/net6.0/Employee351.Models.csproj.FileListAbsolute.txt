@@ -1,0 +1,12 @@
+C:\Users\sit351\Desktop\DotNetCore\Employee351\Employee351.Models\obj\Debug\net6.0\Employee351.Models.csproj.AssemblyReference.cache
+C:\Users\sit351\Desktop\DotNetCore\Employee351\Employee351.Models\obj\Debug\net6.0\Employee351.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sit351\Desktop\DotNetCore\Employee351\Employee351.Models\obj\Debug\net6.0\Employee351.Models.AssemblyInfoInputs.cache
+C:\Users\sit351\Desktop\DotNetCore\Employee351\Employee351.Models\obj\Debug\net6.0\Employee351.Models.AssemblyInfo.cs
+C:\Users\sit351\Desktop\DotNetCore\Employee351\Employee351.Models\obj\Debug\net6.0\Employee351.Models.csproj.CoreCompileInputs.cache
+C:\Users\sit351\Desktop\DotNetCore\Employee351\Employee351.Models\bin\Debug\net6.0\Employee351.Models.deps.json
+C:\Users\sit351\Desktop\DotNetCore\Employee351\Employee351.Models\bin\Debug\net6.0\Employee351.Models.dll
+C:\Users\sit351\Desktop\DotNetCore\Employee351\Employee351.Models\bin\Debug\net6.0\Employee351.Models.pdb
+C:\Users\sit351\Desktop\DotNetCore\Employee351\Employee351.Models\obj\Debug\net6.0\Employee351.Models.dll
+C:\Users\sit351\Desktop\DotNetCore\Employee351\Employee351.Models\obj\Debug\net6.0\refint\Employee351.Models.dll
+C:\Users\sit351\Desktop\DotNetCore\Employee351\Employee351.Models\obj\Debug\net6.0\Employee351.Models.pdb
+C:\Users\sit351\Desktop\DotNetCore\Employee351\Employee351.Models\obj\Debug\net6.0\ref\Employee351.Models.dll
