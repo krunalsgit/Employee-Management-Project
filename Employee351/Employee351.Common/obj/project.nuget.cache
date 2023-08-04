@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9IRP92saHRopN4hH5EK9PRMJsyGhDKiYQCL9q2+mluqYJVoiO6h4Da/lJ4/CqkavPhgJ4kpIznCN1BxmOLB47w==",
+  "dgSpecHash": "jlLjb/F7ynWQ2j3RMXlCV8hwu/7GgOzltX8UxuVZQJtuS0AveXqFu8kAQ47jqMHr4DEggSap1Oqz/grRUk2lLg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\sit351\\Desktop\\DotNetCore\\Employee351\\Employee351.Common\\Employee351.Common.csproj",
+  "projectFilePath": "C:\\Users\\sit351\\Desktop\\Repositories\\Employee-Management-Project\\Employee351\\Employee351.Common\\Employee351.Common.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sit351\\.nuget\\packages\\bouncycastle.cryptography\\2.2.1\\bouncycastle.cryptography.2.2.1.nupkg.sha512",
     "C:\\Users\\sit351\\.nuget\\packages\\mailkit\\4.1.0\\mailkit.4.1.0.nupkg.sha512",

@@ -830,11 +830,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sit351\\Desktop\\DotNetCore\\Employee351\\Employee351.Repository\\Employee351.Repository.csproj",
+      "projectUniqueName": "C:\\Users\\sit351\\Desktop\\Repositories\\Employee-Management-Project\\Employee351\\Employee351.Repository\\Employee351.Repository.csproj",
       "projectName": "Employee351.Repository",
-      "projectPath": "C:\\Users\\sit351\\Desktop\\DotNetCore\\Employee351\\Employee351.Repository\\Employee351.Repository.csproj",
+      "projectPath": "C:\\Users\\sit351\\Desktop\\Repositories\\Employee-Management-Project\\Employee351\\Employee351.Repository\\Employee351.Repository.csproj",
       "packagesPath": "C:\\Users\\sit351\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sit351\\Desktop\\DotNetCore\\Employee351\\Employee351.Repository\\obj\\",
+      "outputPath": "C:\\Users\\sit351\\Desktop\\Repositories\\Employee-Management-Project\\Employee351\\Employee351.Repository\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\sit351\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -851,8 +851,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\sit351\\Desktop\\DotNetCore\\Employee351\\Employee351.Models\\Employee351.Models.csproj": {
-              "projectPath": "C:\\Users\\sit351\\Desktop\\DotNetCore\\Employee351\\Employee351.Models\\Employee351.Models.csproj"
+            "C:\\Users\\sit351\\Desktop\\Repositories\\Employee-Management-Project\\Employee351\\Employee351.Models\\Employee351.Models.csproj": {
+              "projectPath": "C:\\Users\\sit351\\Desktop\\Repositories\\Employee-Management-Project\\Employee351\\Employee351.Models\\Employee351.Models.csproj"
             }
           }
         }

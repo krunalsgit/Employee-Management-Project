@@ -849,11 +849,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sit351\\Desktop\\DotNetCore\\Employee351\\Employee351.Services\\Employee351.Services.csproj",
+      "projectUniqueName": "C:\\Users\\sit351\\Desktop\\Repositories\\Employee-Management-Project\\Employee351\\Employee351.Services\\Employee351.Services.csproj",
       "projectName": "Employee351.Services",
-      "projectPath": "C:\\Users\\sit351\\Desktop\\DotNetCore\\Employee351\\Employee351.Services\\Employee351.Services.csproj",
+      "projectPath": "C:\\Users\\sit351\\Desktop\\Repositories\\Employee-Management-Project\\Employee351\\Employee351.Services\\Employee351.Services.csproj",
       "packagesPath": "C:\\Users\\sit351\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sit351\\Desktop\\DotNetCore\\Employee351\\Employee351.Services\\obj\\",
+      "outputPath": "C:\\Users\\sit351\\Desktop\\Repositories\\Employee-Management-Project\\Employee351\\Employee351.Services\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\sit351\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -870,11 +870,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\sit351\\Desktop\\DotNetCore\\Employee351\\Employee351.Models\\Employee351.Models.csproj": {
-              "projectPath": "C:\\Users\\sit351\\Desktop\\DotNetCore\\Employee351\\Employee351.Models\\Employee351.Models.csproj"
+            "C:\\Users\\sit351\\Desktop\\Repositories\\Employee-Management-Project\\Employee351\\Employee351.Models\\Employee351.Models.csproj": {
+              "projectPath": "C:\\Users\\sit351\\Desktop\\Repositories\\Employee-Management-Project\\Employee351\\Employee351.Models\\Employee351.Models.csproj"
             },
-            "C:\\Users\\sit351\\Desktop\\DotNetCore\\Employee351\\Employee351.Repository\\Employee351.Repository.csproj": {
-              "projectPath": "C:\\Users\\sit351\\Desktop\\DotNetCore\\Employee351\\Employee351.Repository\\Employee351.Repository.csproj"
+            "C:\\Users\\sit351\\Desktop\\Repositories\\Employee-Management-Project\\Employee351\\Employee351.Repository\\Employee351.Repository.csproj": {
+              "projectPath": "C:\\Users\\sit351\\Desktop\\Repositories\\Employee-Management-Project\\Employee351\\Employee351.Repository\\Employee351.Repository.csproj"
             }
           }
         }

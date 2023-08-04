@@ -127,11 +127,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sit351\\Desktop\\DotNetCore\\Employee351\\Employee351.Models\\Employee351.Models.csproj",
+      "projectUniqueName": "C:\\Users\\sit351\\Desktop\\Repositories\\Employee-Management-Project\\Employee351\\Employee351.Models\\Employee351.Models.csproj",
       "projectName": "Employee351.Models",
-      "projectPath": "C:\\Users\\sit351\\Desktop\\DotNetCore\\Employee351\\Employee351.Models\\Employee351.Models.csproj",
+      "projectPath": "C:\\Users\\sit351\\Desktop\\Repositories\\Employee-Management-Project\\Employee351\\Employee351.Models\\Employee351.Models.csproj",
       "packagesPath": "C:\\Users\\sit351\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sit351\\Desktop\\DotNetCore\\Employee351\\Employee351.Models\\obj\\",
+      "outputPath": "C:\\Users\\sit351\\Desktop\\Repositories\\Employee-Management-Project\\Employee351\\Employee351.Models\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\sit351\\AppData\\Roaming\\NuGet\\NuGet.Config",
